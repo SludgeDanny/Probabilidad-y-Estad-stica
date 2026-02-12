@@ -1,2 +1,3 @@
-# Probabilidad-y-Estad-stica
-Programas de probabilidad y estadística
+# Probabilidad-y-Estadastica
+## **Programas de probabilidad y estadística**
+## Alumno: Daniel Rosales Reyes
